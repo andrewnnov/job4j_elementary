@@ -38,6 +38,4 @@ public class DivideBySixTest {
         String expected = "Исходное число не делится на 3 и не является четным.";
         Assert.assertEquals(expected, result);
     }
-
-
 }
